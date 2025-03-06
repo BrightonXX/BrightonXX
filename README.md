@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Brighton</h1>
-<h3 align="center">A 100% Shenzhen-raised SUSTecher.</h3>
+<h1 align="center">Hi 👋, I'm Brighton 🌠</h1>
+<h3 align="center">🧑‍💻A 100% Shenzhen-raised SUSTecher.👨‍💻</h3>
 
-- 🔭 I’m currently working on [SUSTech CS205](https://github.com/ShiqiYu/CPP)
+- 🔭 I’m currently working on [SUSTech CS205](https://github.com/ShiqiYu/CPP) 
 
 - 🌱 I’m currently learning **C\CPP, Database, Algorithms**
 
@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love Radiohead!**
 
 <h3 align="left">Connect with me:</h3>
-- 📫 **12312710@mail.sustech.edu.cn** , 🗣️**QQ:962480121**
+- 📫 12312710@mail.sustech.edu.cn , 🗣️QQ:962480121
 <p align="left">
 </p>
 
