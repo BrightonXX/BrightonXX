@@ -3,17 +3,16 @@
 
 - 🔭 I’m currently working on [SUSTech CS205](https://github.com/ShiqiYu/CPP)
 
-- 🌱 I’m currently learning **C\CPP,Database,Algorithms**
+- 🌱 I’m currently learning **C\CPP, Database, Algorithms**
 
 - 👨‍💻 My projects are available at here!
 
-- 📝 I regularly write articles on [Wechat Official Account\Runtime Error](http://weixin.qq.com/r/mp/YxLp8WXEyDi3rSGS90dx)
-
-- 📫 How to reach me **12312710@mail.sustech.edu.cn**
+- 📝 I regularly write articles on **Wechat Official Account\Runtime Error**
 
 - ⚡ Fun fact **I love Radiohead!**
 
 <h3 align="left">Connect with me:</h3>
+- 📫 **12312710@mail.sustech.edu.cn** , 🗣️**QQ:962480121**
 <p align="left">
 </p>
 
