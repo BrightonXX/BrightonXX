@@ -7,9 +7,9 @@
 
 - 👨‍💻 My projects are available at here!
 
-- 📝 I am planning to start my personal blog! As long as I am free enough!
+- 📝 I am planning to start my personal blog!
 
-- ⚡ Fun fact **I love Radiohead!**
+- ⚡ Fun fact **I love album: Close to the edge**!
 
 <h3 align="left">Connect with me:</h3>
 - 📫 12312710@mail.sustech.edu.cn , 🗣️QQ:962480121
