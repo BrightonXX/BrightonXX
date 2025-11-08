@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brighton 🌠</h1>
 <h3 align="center">🧑‍💻A 100% Shenzhen-raised SUSTecher.👨‍💻</h3>
-![Visitors](https://api.visitorbadge.io/api/VisitorHit?user=BrightonXX&repo=github-visitors-badge&countColor=57068c)
+![Visitors](https://shields.io/badge/dynamic/json?color=57068c&label=visitors&query=value&url=https://api.countapi.xyz/hit/BrightonXX.github-visitors-badge)
 
 - 🔭 I’m currently working on [SUSTech CS205](https://github.com/ShiqiYu/CPP) 
 
