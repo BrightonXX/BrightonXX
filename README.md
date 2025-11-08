@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I love album: Close to the edge**!
 
 <h3 align="left">Connect with me:</h3>
-- 📫 12312710@mail.sustech.edu.cn , 🗣️QQ:962480121
+- 📫 12312710@mail.sustech.edu.cn or x2005jiay@gmail.com
 <p align="left">
 </p>
 
