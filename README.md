@@ -7,7 +7,7 @@
 
 - 👨‍💻 My projects are available at here!
 
-- 📝 I regularly write articles on **Wechat Official Account\Runtime Error**
+- 📝 I am planning to start my personal blog! As long as I am free enough!
 
 - ⚡ Fun fact **I love Radiohead!**
 
