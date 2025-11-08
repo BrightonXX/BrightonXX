@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Brighton 🌠</h1>
 <h3 align="center">🧑‍💻A 100% Shenzhen-raised SUSTecher.👨‍💻</h3>
 
-- 🔭 I’m currently working on [SUSTech CS205](https://github.com/ShiqiYu/CPP) 
+- 🔭 I’m currently working on deep learning and autonomous driving.
 
-- 🌱 I’m currently learning **C\CPP, Database, Algorithms**
+- 🌱 I’m currently learning **Computer Network, AI, Compiler**
 
 - 👨‍💻 My projects are available at here!
 
