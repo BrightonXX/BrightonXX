@@ -11,6 +11,7 @@
 
 <h3 align="left">Visit my blog:</h3>
 I just started my personal blog! Feel free to take a look.
+
 - 📚 [Link](https://brightonxx.github.io/)
 <p align="left">
 <h3 align="left">Connect with me:</h3>
