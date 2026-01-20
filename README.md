@@ -7,12 +7,12 @@
 
 - 👨‍💻 My projects are available at here. (See pinned!)
 
-- 📝 I am planning to start my personal blog!
-
 - ⚡ Fun fact **I love album: Close to the edge**!
 
 <h3 align="left">Connect with me:</h3>
 - 📫 12312710@mail.sustech.edu.cn or x2005jiay@gmail.com
+
+- 📚 [Visit My Blog](https://brightonxx.github.io/)
 <p align="left">
 </p>
 
