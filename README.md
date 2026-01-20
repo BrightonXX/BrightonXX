@@ -10,9 +10,9 @@
 - ⚡ Fun fact **I love album: Close to the edge**!
 
 <h3 align="left">Visit my blog:</h3>
-I just started my personal blog! Feel free to take a look.
+- 👓 I just started my personal blog! Feel free to take a look.
 
-- 📚 [Link](https://brightonxx.github.io/)
+- 🌐 [Link](https://brightonxx.github.io/)
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 - 📫 12312710@mail.sustech.edu.cn or x2005jiay@gmail.com
